@@ -10,7 +10,7 @@
  - [小任务](#task)
  - [计算机核心课程学习-阶段二](#phase_3)
  - [其他推荐课程](#recommended_class)
-- [领域学习](#area_study)
+- [领域学习或者工作](#area_study)
 
 ##<h2 id="curriculum">课程列表</h2>
 
@@ -70,7 +70,7 @@
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 [数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
-###<h2 id="task">任务</h2>
+###<h2 id="task">小任务</h2>
 为了较好的检验您的程序设计能力，希望您能去下列相应平台中完成指定的任务，所有的任务都可以利用上述学得的知识完成，加油！
 - [杭电OJ](http://acm.hdu.edu.cn/)
 - [LeetCode OJ](https://leetcode.com/)
@@ -86,6 +86,11 @@
 [计算机架构](https://www.coursera.org/course/comparch) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/comparch)
 [计算机操作系统和系统编程](https://www.youtube.com/watch?v=1IcZB26STUE&list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c&index=1) | UCBerkely | | [链接](http://inst.eecs.berkeley.edu/~cs162/fa15/)
 [计算机网络](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | 暂无 | [链接](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+
+
+###<h3 id="recommended_class">其他推荐课程</h3>
+
+暂无
 
 ##<h2 id="area_study">领域学习</h2>
 恭喜您,您已经较好的掌握所有计算机系学生必备的初级程序设计能力，现在已经具备进入下一阶段的能力了，您可以选择您喜欢的研究方向进行学习，希望再接再励！
