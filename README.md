@@ -12,7 +12,7 @@
  - [其他推荐课程](#recommended_class)
 - [领域学习或者工作](#area_study)
 
-##<h2 id="curriculum">课程列表</h2>
+## <h2 id="curriculum">课程列表</h2>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -32,8 +32,8 @@
 [计算机操作系统和系统编程](https://www.youtube.com/watch?v=1IcZB26STUE&list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c&index=1) | UCBerkely | | [链接](http://inst.eecs.berkeley.edu/~cs162/fa15/)
 [计算机网络](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | 暂无 | [链接](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-##<h2 id="learning_routine">计算机科学专业学习路线</h2>
-###<h3 id="CS_begin">什么是计算机科学</h3>
+## <h2 id="learning_routine">计算机科学专业学习路线</h2>
+### <h3 id="CS_begin">什么是计算机科学</h3>
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [计算机简介](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | Harvard | 暂无 | [链接](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
@@ -49,14 +49,14 @@
 [计算机科学数学](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | MIT | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 
 
-###<h3 id="phase_1">计算机核心课程学习_阶段一</h3>
+### <h3 id="phase_1">计算机核心课程学习_阶段一</h3>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [C语言程序设计](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)| thenewboston | [The C Programming Language](https://www.amazon.com/dp/0131103628/?tag=stackoverfl08-20) |[链接](https://www.youtube.com/watch?v=2NWeucMKrLI&index=1&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
 [数据结构入门](https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)| mycodeschool | 暂无 |[链接]((https://www.youtube.com/watch?v=92S4zgXN17o&index=1&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
 
-###<h3 id="phase_2">计算机核心课程学习_阶段二</h3>
+### <h3 id="phase_2">计算机核心课程学习_阶段二</h3>
    
   - 这边我们选择学习了另外一门语言--Java，一方面是后续的**算法1和算法2**中的习题完成需要依赖于Java语言，另外一方面希望大家能了解什么是面向对象编程，注意与C语言的区别。
 
@@ -70,14 +70,14 @@
 [算法简介](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) |[链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 [数据库知识](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 暂无 |[链接](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
-###<h2 id="task">小任务</h2>
+### <h2 id="task">小任务</h2>
 为了较好的检验您的程序设计能力，希望您能去下列相应平台中完成指定的任务，所有的任务都可以利用上述学得的知识完成，加油！
 - [杭电OJ](http://acm.hdu.edu.cn/)
 - [LeetCode OJ](https://leetcode.com/)
 - [hihoCoder](https://hihocoder.com/)
 - **希望大家补充**
 
-###<h3 id="phase_3">计算机核心课程学习_阶段三</h3>
+### <h3 id="phase_3">计算机核心课程学习_阶段三</h3>
 
 此处的课程涉及一些计算机操作系统和计算机网络和的知识，能更好的帮助大家完成进一步完善自己的程序设计能力同时了解网络传输等原理。
 
@@ -88,7 +88,7 @@
 [计算机网络](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Stanford | 暂无 | [链接](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 
-###<h3 id="recommended_class">其他推荐课程</h3>
+### <h3 id="recommended_class">其他推荐课程</h3>
 
 暂无，希望大家推荐
 
